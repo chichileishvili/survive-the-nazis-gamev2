@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\mixa\mixa\Source.cpp(337,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\mixa\mixa\Source.cpp(337,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\mixa\mixa\Source.cpp(462,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\mixa\mixa\Source.cpp(462,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  mixa.vcxproj -> D:\mixa\x64\Debug\mixa.exe
